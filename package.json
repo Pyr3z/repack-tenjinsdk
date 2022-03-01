@@ -1,0 +1,10 @@
+{
+  "name": "com.tenjin.sdk",
+  "version": "1.12.9",
+  "displayName": "[TenjinSDK]",
+  "description": "Adapted as a proper Unity package by Levi Perez.",
+  "unity": "2019.4",
+  "unityRelease": "15f1",
+  "type": "library",
+  "hideInEditor": false
+}
