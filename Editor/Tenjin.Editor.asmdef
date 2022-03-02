@@ -1,0 +1,16 @@
+{
+    "name": "Tenjin.Editor",
+    "references": [
+        "GUID:d9ad01a1aacbd6e47a1c0e44483fe248"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": []
+}
