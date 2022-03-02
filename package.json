@@ -1,9 +1,9 @@
 {
   "name": "com.tenjin.sdk",
-  "version": "1.12.9",
+  "version": "1.12.8+0901",
   "displayName": "[TenjinSDK]",
-  "description": "Adapted as a proper Unity package by Levi Perez.",
-  "unity": "2019.4",
+  "description": "Adapted as a proper Unity package by Levi Perez.\n\nThis particular version (v1.12.0901) is a custom solution provided to Kooapps by Tenjin, to work in Unity 2019.2.21.",
+  "unity": "2019.2",
   "unityRelease": "21f1",
   "type": "library",
   "hideInEditor": false
