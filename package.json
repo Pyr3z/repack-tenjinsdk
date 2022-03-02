@@ -4,7 +4,7 @@
   "displayName": "[TenjinSDK]",
   "description": "Adapted as a proper Unity package by Levi Perez.",
   "unity": "2019.4",
-  "unityRelease": "15f1",
+  "unityRelease": "21f1",
   "type": "library",
   "hideInEditor": false
 }
