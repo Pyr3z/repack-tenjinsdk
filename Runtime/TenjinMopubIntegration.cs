@@ -3,7 +3,10 @@ using UnityEngine;
 
 public class TenjinMopubIntegration
 {
-    private static bool _subscribed = false;
+#if tenjin_mopub_enabled
+  private static bool _subscribed = false;
+#endif // tenjin_mopub_enabled
+
     public TenjinMopubIntegration()
     {
     }

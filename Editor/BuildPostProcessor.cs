@@ -1,7 +1,9 @@
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.Callbacks;
+#if UNITY_IOS
 using UnityEditor.iOS.Xcode;
+#endif // UNITY_IOS
 using System.IO;
 using System.Collections.Generic;
 
