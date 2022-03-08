@@ -1,3 +1,10 @@
+# REPACK NOTICE:
+
+The repacks found here are not only intended to be hooked into the Unity Package Manager as a dependency, but also be source-controlled as a git submodule (residing inside the Unity project `Packages/` directory) to your parent superproject.
+
+This specific set of repacks must be in a folder named exactly: `Packages/com.tenjin.sdk`
+
+
 # Summary
 
 The Unity SDK for Tenjin. To learn more about Tenjin and our product offering, please visit https://www.tenjin.com.
