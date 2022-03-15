@@ -1,4 +1,3 @@
-<!-- [LP] changed android:minSdkVersion to 19 and reinjected into tenjin.aar. -->
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
