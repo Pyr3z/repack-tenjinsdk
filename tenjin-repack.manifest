@@ -1,0 +1,36 @@
+{
+  "files":
+  [
+    "Packages/com.tenjin.sdk/Assets/Plugins/Android/huawei-ads-identifier.aar",
+    "Packages/com.tenjin.sdk/Assets/Plugins/Android/huawei-ads-installreferrer.aar",
+    "Packages/com.tenjin.sdk/Assets/Plugins/Android/installreferrer-2.2.aar",
+    "Packages/com.tenjin.sdk/Assets/Plugins/Android/oaid_sdk_1.0.25.aar",
+    "Packages/com.tenjin.sdk/Assets/Plugins/Android/play-services-ads-identifier-17.1.0.aar",
+    "Packages/com.tenjin.sdk/Assets/Plugins/Android/play-services-basement-17.6.0.aar",
+    "Packages/com.tenjin.sdk/Assets/Plugins/Android/tenjin.aar",
+    "Packages/com.tenjin.sdk/Assets/Plugins/Android/tenjin.aar-AndroidManifest.xml",
+    "Packages/com.tenjin.sdk/Assets/Plugins/iOS/libTenjinSDK.a",
+    "Packages/com.tenjin.sdk/Assets/Plugins/iOS/libTenjinSDKUniversal.a",
+    "Packages/com.tenjin.sdk/Assets/Plugins/iOS/TenjinSDK.h",
+    "Packages/com.tenjin.sdk/Assets/Plugins/iOS/TenjinUnityInterface.h",
+    "Packages/com.tenjin.sdk/Assets/Plugins/iOS/TenjinUnityInterface.mm",
+    "Packages/com.tenjin.sdk/Editor/BuildPostProcessor.cs",
+    "Packages/com.tenjin.sdk/Editor/Tenjin.Editor.asmdef",
+    "Packages/com.tenjin.sdk/Editor/TenjinAssetSelector.cs",
+    "Packages/com.tenjin.sdk/Editor/TenjinEditorPrefs.cs",
+    "Packages/com.tenjin.sdk/Editor/TenjinPackager.cs",
+    "Packages/com.tenjin.sdk/LICENSE.txt",
+    "Packages/com.tenjin.sdk/package.json",
+    "Packages/com.tenjin.sdk/README.md",
+    "Packages/com.tenjin.sdk/RELEASE_NOTES.md",
+    "Packages/com.tenjin.sdk/Runtime/AndroidTenjin.cs",
+    "Packages/com.tenjin.sdk/Runtime/AppStoreType.cs",
+    "Packages/com.tenjin.sdk/Runtime/BaseTenjin.cs",
+    "Packages/com.tenjin.sdk/Runtime/DebugTenjin.cs",
+    "Packages/com.tenjin.sdk/Runtime/IosTenjin.cs",
+    "Packages/com.tenjin.sdk/Runtime/Tenjin.asmdef",
+    "Packages/com.tenjin.sdk/Runtime/Tenjin.cs",
+    "Packages/com.tenjin.sdk/Runtime/TenjinMopubIntegration.cs",
+    "Packages/com.tenjin.sdk/tenjin-repack.manifest"
+  ]
+}
