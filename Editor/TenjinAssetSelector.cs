@@ -19,7 +19,7 @@ namespace Tenjin
         protected override TreeViewItem BuildRoot()
         {
             var selectedAssets = TenjinPackager.LoadManifest();
-            var assets = AssetDatabase.FindAssets(null, new[] { "Assets" }).Select(x => AssetDatabase.GUIDToAssetPath(x));
+            var assets = AssetDatabase.FindAssets(null, new[] { "Assets", "Packages/com.tenjin.sdk" }).Select(x => AssetDatabase.GUIDToAssetPath(x));
             var root = new TenjinAssetViewItem { selected = false, id = 0, depth = -1, displayName = "Root" };
 
             var allItems = assets.Select((a, index) =>
@@ -162,7 +162,7 @@ namespace Tenjin
 
                 if (GUILayout.Button("Publish Unitypackage", style))
                 {
-                    TenjinPackager.PublishPackage(SelectedAssets());
+                    TenjinPackager.PublishPackage(SelectedAssets(), interactive: false);
                 }
 
                 GUILayout.FlexibleSpace();
