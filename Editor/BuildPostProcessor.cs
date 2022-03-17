@@ -1,3 +1,5 @@
+// [LP] made this ONLY compile for iOS
+#if UNITY_IOS
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.Callbacks;
@@ -61,3 +63,5 @@ public class BuildPostProcessor : MonoBehaviour
 #endif  
     }
 }
+
+#endif // UNITY_IOS
