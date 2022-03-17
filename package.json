@@ -2,7 +2,7 @@
   "name": "com.tenjin.sdk",
   "version": "1.12.9",
   "displayName": "[TenjinSDK]",
-  "description": "Adapted as a proper Unity package by Levi Perez.",
+  "description": "Adapted as a proper Unity package by Levi Perez.\n\t(repack 3)",
   "unity": "2019.4",
   "unityRelease": "21f1",
   "type": "library",
