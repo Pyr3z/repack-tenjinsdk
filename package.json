@@ -1,10 +1,20 @@
 {
-  "name": "com.tenjin.sdk",
-  "version": "1.12.9",
-  "displayName": "[TenjinSDK]",
-  "description": "Adapted as a proper Unity package by Levi Perez.\n\t(repack 3)",
-  "unity": "2019.4",
+  "name":         "com.tenjin.sdk",
+  "displayName":  "[TenjinSDK]",
+  "version":      "1.12.9",
+  "description":  "Adapted as a proper Unity package by Levi Perez.\n\t(repack 3)",
+  "unity":        "2019.4",
   "unityRelease": "21f1",
+
+  "author": {
+    "name": "Kooapps"
+  },
+
+  "repository": {
+    "type": "git",
+    "url":  "http://192.168.0.201:8090/seattle/repacked-tenjinsdk.git"
+  },
+
   "type": "library",
   "hideInEditor": false
 }
