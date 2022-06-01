@@ -8,7 +8,7 @@ using UnityEngine;
 
 public class TenjinAdMobIntegration
 {
-    private static bool _subscribed_admob = false;
+    private static bool _subscribed_admob;
     public TenjinAdMobIntegration()
     {
     }

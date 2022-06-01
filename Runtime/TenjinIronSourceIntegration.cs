@@ -9,7 +9,7 @@ using UnityEngine;
 
 public class TenjinIronSourceIntegration
 {
-    private static bool _subscribed_ironsource = false;
+    private static bool _subscribed_ironsource;
     public TenjinIronSourceIntegration()
     {
     }

@@ -7,7 +7,7 @@ using UnityEngine;
 
 public class TenjinAppLovinIntegration
 {
-    private static bool _subscribed_applovin = false;
+    private static bool _subscribed_applovin;
     public TenjinAppLovinIntegration()
     {
     }
