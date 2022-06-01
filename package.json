@@ -1,8 +1,8 @@
 {
   "name":         "com.tenjin.sdk",
   "displayName":  "[TenjinSDK]",
-  "version":      "1.12.9",
-  "description":  "Adapted as a proper Unity package by Levi Perez.\n\t(repack 3)",
+  "version":      "1.12.16",
+  "description":  "Adapted as a proper Unity package by Levi Perez.\n\t(repack 1)",
   "unity":        "2019.4",
   "unityRelease": "21f1",
 
@@ -12,7 +12,7 @@
 
   "repository": {
     "type": "git",
-    "url":  "https://github.com/Pyr3z/repack-tenjinsdk.git#gp"
+    "url":  "https://gitlab.com/koofolks/tenjin-unity-sdk.git#gp"
   },
 
   "type": "library",
