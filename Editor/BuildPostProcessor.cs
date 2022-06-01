@@ -1,5 +1,7 @@
-// [LP] made this ONLY compile for iOS
-#if UNITY_IOS
+﻿//
+//  Copyright (c) 2022 Tenjin. All rights reserved.
+//
+
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.Callbacks;
@@ -63,5 +65,3 @@ public class BuildPostProcessor : MonoBehaviour
 #endif  
     }
 }
-
-#endif // UNITY_IOS

@@ -1,7 +1,9 @@
 {
     "name": "Tenjin.Editor",
+    "rootNamespace": "",
     "references": [
-        "GUID:1ccbf561bf11bc446baa311c44a3d4e3"
+        "GUID:1ccbf561bf11bc446baa311c44a3d4e3",
+        "GUID:a4cfc1a18fa3a469b96d885db522f42e"
     ],
     "includePlatforms": [
         "Editor"
