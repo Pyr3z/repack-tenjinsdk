@@ -146,12 +146,12 @@ namespace Tenjin
             if (TypeExists(abmobTypes))
             {
                 UpdateDefines(tenjin_admob, true, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("AdMob SDK found");
+                //Debug.Log("AdMob SDK found");
             }
             else
             {
                 UpdateDefines(tenjin_admob, false, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("AdMob SDK not found");
+                //Debug.Log("AdMob SDK not found");
             }
         }
 
@@ -164,12 +164,12 @@ namespace Tenjin
             if (TypeExists(applovinTypes))
             {
                 UpdateDefines(tenjin_applovin, true, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("AppLovin SDK found");
+                //Debug.Log("AppLovin SDK found");
             }
             else
             {
                 UpdateDefines(tenjin_applovin, false, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("AppLovin SDK not found");
+                //Debug.Log("AppLovin SDK not found");
             }
         }
 
@@ -182,12 +182,12 @@ namespace Tenjin
             if (TypeExists(facebookTypes))
             {
                 UpdateDefines(tenjin_facebook, true, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("Facebook SDK found");
+                //Debug.Log("Facebook SDK found");
             }
             else
             {
                 UpdateDefines(tenjin_facebook, false, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("Facebook SDK not found");
+                //Debug.Log("Facebook SDK not found");
             }
         }
 
@@ -200,12 +200,12 @@ namespace Tenjin
             if (TypeExists(hyperbidTypes))
             {
                 UpdateDefines(tenjin_hyperbid, true, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("HyperBid SDK found");
+                //Debug.Log("HyperBid SDK found");
             }
             else
             {
                 UpdateDefines(tenjin_hyperbid, false, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("HyperBid SDK not found");
+                //Debug.Log("HyperBid SDK not found");
             }
         }
 
@@ -218,12 +218,12 @@ namespace Tenjin
             if (TypeExists(ironsourceTypes))
             {
                 UpdateDefines(tenjin_ironsource, true, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("Ironsource SDK found");
+                //Debug.Log("Ironsource SDK found");
             }
             else
             {
                 UpdateDefines(tenjin_ironsource, false, new BuildTargetGroup[] { BuildTargetGroup.iOS, BuildTargetGroup.Android });
-                Debug.Log("Ironsource SDK not found");
+                //Debug.Log("Ironsource SDK not found");
             }
         }
 
