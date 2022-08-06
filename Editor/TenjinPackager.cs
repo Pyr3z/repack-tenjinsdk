@@ -1,4 +1,4 @@
-﻿//
+//
 //  Copyright (c) 2022 Tenjin. All rights reserved.
 //
 
