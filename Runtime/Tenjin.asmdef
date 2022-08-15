@@ -2,7 +2,8 @@
     "name": "Tenjin",
     "rootNamespace": "",
     "references": [
-        "GUID:a4cfc1a18fa3a469b96d885db522f42e"
+        "GUID:a4cfc1a18fa3a469b96d885db522f42e",
+        "GUID:e538526bd6fc3f24ea435a40af8da18b"
     ],
     "includePlatforms": [
         "Android",
